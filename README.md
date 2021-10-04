@@ -8,5 +8,7 @@ In the 'Fraud Detection Web App' folder, I created a web app with Flask that use
 
 
 
-https://user-images.githubusercontent.com/52537568/135867977-c1a2c0d0-340b-4472-a052-ada2bf918854.mp4
+
+https://user-images.githubusercontent.com/52537568/135868202-5090700d-a424-4cb0-a4b0-5203782d1caf.mp4
+
 
